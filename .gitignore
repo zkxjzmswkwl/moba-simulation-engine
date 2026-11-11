@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/simengine
+simengine.so
+simengine.dylib
+simengine.dll
+libsimengine.a
+simengine.a
+simengine.lib
+simengine-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
